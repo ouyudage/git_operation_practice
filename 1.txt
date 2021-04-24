@@ -1,6 +1,3 @@
 测试
-<<<<<<< HEAD
-master
-=======
-leaf1
->>>>>>> leaf1
+prac2
+
